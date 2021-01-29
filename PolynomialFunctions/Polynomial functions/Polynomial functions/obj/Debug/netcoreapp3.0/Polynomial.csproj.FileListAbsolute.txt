@@ -1,0 +1,35 @@
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\bin\Debug\netcoreapp3.0\Polynomial.exe
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\bin\Debug\netcoreapp3.0\Polynomial.deps.json
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\bin\Debug\netcoreapp3.0\Polynomial.runtimeconfig.json
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\bin\Debug\netcoreapp3.0\Polynomial.runtimeconfig.dev.json
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\bin\Debug\netcoreapp3.0\Polynomial.dll
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\bin\Debug\netcoreapp3.0\Polynomial.pdb
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\obj\Debug\netcoreapp3.0\Polynomial.csprojAssemblyReference.cache
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\obj\Debug\netcoreapp3.0\Polynomial.AssemblyInfoInputs.cache
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\obj\Debug\netcoreapp3.0\Polynomial.AssemblyInfo.cs
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\obj\Debug\netcoreapp3.0\Polynomial.dll
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\obj\Debug\netcoreapp3.0\Polynomial.pdb
+C:\Users\BLESSING\Source\Repos\blessingjarawani\Polynomial-Functions\Polynomial functions\Polynomial functions\bin\Debug\netcoreapp3.0\Polynomial.exe
+C:\Users\BLESSING\Source\Repos\blessingjarawani\Polynomial-Functions\Polynomial functions\Polynomial functions\bin\Debug\netcoreapp3.0\Polynomial.deps.json
+C:\Users\BLESSING\Source\Repos\blessingjarawani\Polynomial-Functions\Polynomial functions\Polynomial functions\bin\Debug\netcoreapp3.0\Polynomial.runtimeconfig.json
+C:\Users\BLESSING\Source\Repos\blessingjarawani\Polynomial-Functions\Polynomial functions\Polynomial functions\bin\Debug\netcoreapp3.0\Polynomial.runtimeconfig.dev.json
+C:\Users\BLESSING\Source\Repos\blessingjarawani\Polynomial-Functions\Polynomial functions\Polynomial functions\bin\Debug\netcoreapp3.0\Polynomial.dll
+C:\Users\BLESSING\Source\Repos\blessingjarawani\Polynomial-Functions\Polynomial functions\Polynomial functions\bin\Debug\netcoreapp3.0\Polynomial.pdb
+C:\Users\BLESSING\Source\Repos\blessingjarawani\Polynomial-Functions\Polynomial functions\Polynomial functions\obj\Debug\netcoreapp3.0\Polynomial.csprojAssemblyReference.cache
+C:\Users\BLESSING\Source\Repos\blessingjarawani\Polynomial-Functions\Polynomial functions\Polynomial functions\obj\Debug\netcoreapp3.0\Polynomial.AssemblyInfoInputs.cache
+C:\Users\BLESSING\Source\Repos\blessingjarawani\Polynomial-Functions\Polynomial functions\Polynomial functions\obj\Debug\netcoreapp3.0\Polynomial.AssemblyInfo.cs
+C:\Users\BLESSING\Source\Repos\blessingjarawani\Polynomial-Functions\Polynomial functions\Polynomial functions\obj\Debug\netcoreapp3.0\Polynomial.dll
+C:\Users\BLESSING\Source\Repos\blessingjarawani\Polynomial-Functions\Polynomial functions\Polynomial functions\obj\Debug\netcoreapp3.0\Polynomial.pdb
+C:\Users\samia\Desktop\Polynomial-Functions-test\Polynomial functions\Polynomial functions\bin\Debug\netcoreapp3.0\Polynomial.exe
+C:\Users\samia\Desktop\Polynomial-Functions-test\Polynomial functions\Polynomial functions\bin\Debug\netcoreapp3.0\Polynomial.deps.json
+C:\Users\samia\Desktop\Polynomial-Functions-test\Polynomial functions\Polynomial functions\bin\Debug\netcoreapp3.0\Polynomial.runtimeconfig.json
+C:\Users\samia\Desktop\Polynomial-Functions-test\Polynomial functions\Polynomial functions\bin\Debug\netcoreapp3.0\Polynomial.runtimeconfig.dev.json
+C:\Users\samia\Desktop\Polynomial-Functions-test\Polynomial functions\Polynomial functions\bin\Debug\netcoreapp3.0\Polynomial.dll
+C:\Users\samia\Desktop\Polynomial-Functions-test\Polynomial functions\Polynomial functions\bin\Debug\netcoreapp3.0\Polynomial.pdb
+C:\Users\samia\Desktop\Polynomial-Functions-test\Polynomial functions\Polynomial functions\obj\Debug\netcoreapp3.0\Polynomial.csprojAssemblyReference.cache
+C:\Users\samia\Desktop\Polynomial-Functions-test\Polynomial functions\Polynomial functions\obj\Debug\netcoreapp3.0\Polynomial.AssemblyInfoInputs.cache
+C:\Users\samia\Desktop\Polynomial-Functions-test\Polynomial functions\Polynomial functions\obj\Debug\netcoreapp3.0\Polynomial.AssemblyInfo.cs
+C:\Users\samia\Desktop\Polynomial-Functions-test\Polynomial functions\Polynomial functions\obj\Debug\netcoreapp3.0\Polynomial.csproj.CoreCompileInputs.cache
+C:\Users\samia\Desktop\Polynomial-Functions-test\Polynomial functions\Polynomial functions\obj\Debug\netcoreapp3.0\Polynomial.dll
+C:\Users\samia\Desktop\Polynomial-Functions-test\Polynomial functions\Polynomial functions\obj\Debug\netcoreapp3.0\Polynomial.pdb
+C:\Users\samia\Desktop\Polynomial-Functions-test\Polynomial functions\Polynomial functions\obj\Debug\netcoreapp3.0\Polynomial.genruntimeconfig.cache

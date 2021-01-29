@@ -1,0 +1,11 @@
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\bin\Debug\netcoreapp3.0\LinearEquations.exe
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\bin\Debug\netcoreapp3.0\LinearEquations.deps.json
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\bin\Debug\netcoreapp3.0\LinearEquations.runtimeconfig.json
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\bin\Debug\netcoreapp3.0\LinearEquations.runtimeconfig.dev.json
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\bin\Debug\netcoreapp3.0\LinearEquations.dll
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\bin\Debug\netcoreapp3.0\LinearEquations.pdb
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\obj\Debug\netcoreapp3.0\LinearEquations.csprojAssemblyReference.cache
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\obj\Debug\netcoreapp3.0\LinearEquations.AssemblyInfoInputs.cache
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\obj\Debug\netcoreapp3.0\LinearEquations.AssemblyInfo.cs
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\obj\Debug\netcoreapp3.0\LinearEquations.dll
+C:\Users\BLESSING\source\repos\Linear Equations\LinearEquations\obj\Debug\netcoreapp3.0\LinearEquations.pdb
